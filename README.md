@@ -22,7 +22,7 @@ VeltrixOS aims to provide a system that boots in seconds, runs smooth, and remai
 
 ## 📦 Roadmap
 
-* Veltrix-OSInstaller built with React + TSX + Tauri (no Calamares)
+* Velins (installer) built with React + TSX + Tauri (no Calamares)
 * Preconfigured kernels (linux-zen, lts, hardened)
 * Veltrix Config Center for simple system management
 * Support for both BIOS and UEFI
